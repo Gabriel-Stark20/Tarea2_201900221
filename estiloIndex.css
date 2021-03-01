@@ -1,0 +1,76 @@
+html {
+  background:  url("imagenes/fondo8.jpg");
+  
+  background-size: 1500px 650px;
+  }
+body {
+  font-family: monospace;
+  color: white;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 50px;
+  color: white;
+}
+h3{
+   font-family: monospace;
+  font-size: 25px;
+  color: white;
+  position: absolute;
+}
+
+.serif {
+  font-family: Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+img{
+  
+  margin-right: 20px;
+  margin-top: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid white;
+  }
+  .foto1{
+    top: -15px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 500px;
+    height: 250px;
+    display: block;
+  }
+
+  .foto2{
+    left: -5px;
+    width: 300px;
+    height: 500px;
+    display: block;
+  }
+  
+  .foto3{
+    top: -150px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 570px;
+    height: 450px;
+    display: block;
+  }
+  .foto4{
+    top: -200px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 650px;
+    height: 450px;
+    display: block;
+  }
+
+figcaption{
+  font-family: serif;
+  font-size: 25px;
+  color: white;
+}

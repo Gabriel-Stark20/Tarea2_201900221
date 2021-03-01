@@ -1,0 +1,101 @@
+img{
+	
+	margin-right: 20px;
+	margin-top: 15px;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid black;
+}
+html {
+  background:  url("imagenes/fondopf2.jpg");
+  
+  background-size: 1500px 900px;
+  }
+body {
+  color: black;
+}
+
+h1 {
+  color: blue;
+  font-family: monospace;
+  font-size: 50px;
+  color: white;
+}
+p{
+	color: blue;
+  font-family: monospace;
+  font-size: 20px;
+  color: black;
+  text-align: justify;
+}
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: Courier, monospace;
+}
+.foto1{
+    top: 50px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 200px;
+    height: 300px;
+    display: block;
+    float: right;
+  }
+  .foto2{
+  	top: -1005px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+  }
+  .boton1{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton2{
+  	background: #C880BF;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton3{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton4{
+  	background: #C88980;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  a:hover{
+  	background: #BE6B43;
+  	color: white;
+  }

@@ -1,0 +1,129 @@
+html{
+	background: url("imagenes/fondoft.jpg");
+	background-size: 1500px 650px;
+}
+
+img{
+  margin-right: 20px;
+  margin-top: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid #000000;
+  }
+
+  .foto1{
+ top: 50px; /* ajustar los valores para mover la imagen */
+    left: 50px;
+    width: 300px;
+    height: 270px;
+    display: block;
+    float: left;
+  }
+
+  .foto2{
+ top: -15px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 350PX;
+    height: 200px;
+    display: block;
+    float:right;
+  }
+  .foto3{
+ top: -15px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 300px;
+    height: 200px;
+    display: block;
+    float: right;
+
+  }
+  .foto4{
+ top: -15px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 800px;
+    height: 300px;
+    display: block;
+    float: center;
+ 
+  }
+
+.serif {
+  font-family: Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+h1{
+	font-family: serif;
+	font-size: 50px;
+	color: #BE4359;
+}
+
+h2{
+	font-family: serif;
+	font-size: 30px;
+	color: black;
+}
+
+.boton1{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton2{
+  	background: #C880BF;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton3{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton4{
+  	background: #C88980;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  a:hover{
+  	background: white;
+  	color: black;
+  }
+  .texto1{
+	font-family: serif;
+	font-size: 25px;
+	color: black;
+	text-align: justify
+}
+   .texto2{
+  	font-size: 25px;
+  	font-family:sans-serif;
+  	text-align: justify;
+  } 
+  

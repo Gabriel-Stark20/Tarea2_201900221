@@ -1,0 +1,92 @@
+html{
+	background: url("imagenes/fondoc.jpg");
+	background-size: 1500px 700px;
+}
+.boton1{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton2{
+  	background: #C880BF;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton3{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton4{
+  	background: #C88980;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  a:hover{
+  	background: white;
+  	color: black;
+  }
+.serif {
+  font-family: Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+.titulo1{
+	font-size: 40px;
+	color: black;
+	font-family: serif;
+	text-decoration: underline;
+}
+.texto1{
+	font-size: 35px;
+	color: black;
+    font-family: italic;
+}
+.texto2{
+	font-size: 20px;
+	color: black;
+    font-family: serif;
+    text-align: justify;
+    column-count: 1;
+}
+img{
+  margin-right: 20px;
+  margin-top: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid #BE4359;
+  }
+  .foto1{
+  	top: -15px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 230px;
+    height: 230px;
+    display: block;
+    float: right;
+  }

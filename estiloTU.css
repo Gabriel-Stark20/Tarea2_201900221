@@ -1,0 +1,133 @@
+html{
+	background: url(imagenes/fondot.jpg);
+	background-size: 1370px, 1000px;
+}
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: Courier, monospace;
+}
+.titulo1{
+	font-family: serif;
+	font-size: 40px;
+	text-decoration: underline;
+}
+h2{
+	font-family: serif;
+	font-size: 30px;
+}
+h3{
+	font-family: serif;
+	font-size: 25px;
+}
+img{
+	
+	margin-right: 20px;
+	margin-top: 15px;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid black;
+	}
+.foto1{
+	top: -1005px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 330px;
+    height: 200px;
+    display: block;
+    float: right;
+}
+.foto2{
+	top: -1005px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 450px;
+    height: 200px;
+    display: block;
+    float:left;
+}
+.foto3{
+	top: -1005px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 780px;
+    height: 230px;
+    display: block;
+    float:right;
+}
+.foto4{
+	top: -1005px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 500px;
+    height: 300px;
+    display: block;
+    float:left;
+}
+.foto5{
+	top: -1005px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 730px;
+    height: 250px;
+    display: block;
+    float:right;
+}
+.foto6{
+	top: -1005px; /* ajustar los valores para mover la imagen */
+    left: -5px;
+    width: 600px;
+    height: 300px;
+    display: block;
+    float:left;
+}
+.p1{
+	font-family: serif;
+	font-size: 25px;
+	text-align: justify;
+}
+.boton1{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton2{
+  	background: #C880BF;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton3{
+  	background: #C8809B;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  .boton4{
+  	background: #C88980;
+  	font-size: 20px;
+  	color: black;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 20px;
+  	transition: background 1s, color 1s;
+  }
+  a:hover{
+  	background: #BE6B43;
+  	color: white;
+  }
